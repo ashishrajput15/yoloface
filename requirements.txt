@@ -1,6 +1,6 @@
 numpy
 tensorflow>=1.12.1
-opencv-python
+opencv-python==4.2.0.32
 opencv-contrib-python
 keras
 matplotlib
